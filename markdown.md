@@ -1,8 +1,10 @@
 # Odin Additional links
 
-## how this course will work
+The Odin project Foundation course additional links
 
-## introduction to web development
+## [how this course will work](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
+
+## [introduction to web development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
 
 * [Quora: How can I Become a Really Good Web Developer?](http://www.quora.com/Computer-Programming/How-can-I-become-a-really-good-Web-Developer-starting-from-now-at-age-20-before-age-25)
 
@@ -18,7 +20,7 @@
 
 * [Roadmap to becoming a web developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
 
-## motivation and mindset
+## [motivation and mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
 
 * [Managing inspiration and motivation](https://markmanson.net/do-something)
 
@@ -30,15 +32,15 @@
 
 * [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 
-## asking for help
+## [asking for help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
 
-## join the odin community
+## [join the odin community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
 
-## computer basics
+## [computer basics](https://www.theodinproject.com/lessons/foundations-computer-basics)
 
 * [GCF’s page on “What are accessibility features”](https://edu.gcfglobal.org/en/computerbasics/using-accessibility-features/1/)
 
-## how does the web work
+## [how does the web work](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
 
 * [Part 1](https://twit.tv/shows/security-now/episodes/25?autostart=false)
 
@@ -52,11 +54,11 @@
 
 * [The hidden network that makes the internet possible](https://youtu.be/er3v4PVNQqE)
 
-## installation overview
+## [installation overview](https://www.theodinproject.com/lessons/foundations-installation-overview)
 
-## installations
+## [installations](https://www.theodinproject.com/lessons/foundations-installations)
 
-## text editors
+## [text editors](https://www.theodinproject.com/lessons/foundations-text-editors)
 
 * [VSCode docs](https://code.visualstudio.com/docs)
 
@@ -64,7 +66,7 @@
 
 * [shortcuts for macOS](https://go.microsoft.com/fwlink/?linkid=832143)
 
-## command line basics
+## [command line basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme)
 
@@ -78,13 +80,13 @@
 
 * [Video Series from LearnLinuxTv](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 
-## setting up git
+## [setting up git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 * [Understanding SSH Key Pairs](https://winscp.net/eng/docs/ssh_keys)
 
 * [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)
 
-## introduction to git
+## [introduction to git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
 
 * [What is Git and GitHub?](https://content.red-badger.com/resources/what-is-git-and-github)
 
@@ -92,9 +94,9 @@
 
 * [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
 
-## git basics
+## [git basics](https://www.theodinproject.com/lessons/foundations-git-basics)
 
-## introduction to html and css
+## [introduction to html and css](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
 
 * [This FreeCodeCamp article](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/)
 
@@ -102,11 +104,11 @@
 
 * [FreeCodeCamp](https://freecodecamp.org)
 
-## elements and tags
+## [elements and tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
 
 * [Don’t Fear the Internet’s video about HTML](http://www.dontfeartheinternet.com/02-html)
 
-## html boilerplate
+## [html boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
 
 * [charsets you should use with your HTML pages](https://www.positioniseverything.net/html-encoding/)
 
@@ -114,13 +116,13 @@
 
 * [this doc](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
 
-## working with text
+## [working with text](https://www.theodinproject.com/lessons/foundations-working-with-text)
 
 * [The semantic difference between `<strong>` and `<b>` or `<em>` and `<i>` tags and when to use them.](https://medium.com/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb)
 
 * [An interactive HTML text formatting article](https://www.w3schools.com/html/html_formatting.asp)
 
-## lists
+## [lists](https://www.theodinproject.com/lessons/foundations-lists)
 
 * [MDN documentation on the unordered list element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
@@ -128,19 +130,19 @@
 
 * [Shay Howe’s HTML lists tutorial](https://learn.shayhowe.com/html-css/creating-lists/)
 
-## links and images
+## [links and images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 
 * [Interneting is hard’s treatment on HTML links and images](https://www.internetingishard.com/html-and-css/links-and-images/)
 
 * [What happened the day Google decided links including (/) were malware](https://www.itpro.co.uk/609724/google-apologises-after-blacklisting-entire-internet)
 
-## commit messages
+## [commit messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 
 * [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-## recipes
+## [recipes](https://www.theodinproject.com/lessons/foundations-recipes)
 
-## css foundations
+## [css foundations](https://www.theodinproject.com/lessons/foundations-css-foundations)
 
 * [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 
@@ -152,31 +154,31 @@
 
 * [Here’s an example](https://developer.mozilla.org/en-US/docs/Web/CSS/color#formal_definition)
 
-## inspecting html and css
+## [inspecting html and css](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 
 * [This article about how we can utilize css overview in the developer tools](https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/)
 
-## the box model
+## [the box model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 
 * [This W3Schools tutorial on CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
-## block and inline
+## [block and inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
 
 * [This tutorial](https://learnlayout.com/no-layout.html)
 
-## introduction to flexbox
+## [introduction to flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 
 * [This Flexbox tutorial](https://www.internetingishard.com/html-and-css/flexbox/)
 
-## growing and shrinking
+## [growing and shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 
 * [check out this video](https://www.youtube.com/watch?v=u044iM9xsWU&t=1s&pp=ugMICgJhchABGAE%3D)
 
-## axes
+## [axes](https://www.theodinproject.com/lessons/foundations-axes)
 
 * [This flexbox visual cheatsheet](https://flexbox.malven.co/)
 
-## alignment
+## [alignment](https://www.theodinproject.com/lessons/foundations-alignment)
 
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 
@@ -188,39 +190,39 @@
 
 * [Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU)
 
-## landing page
+## [landing page](https://www.theodinproject.com/lessons/foundations-landing-page)
 
-## fundamentals part 1
+## [fundamentals part 1](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)
 
 * [javascript.info](https://javascript.info/var)
 
-## fundamentals part 2
+## [fundamentals part 2](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2)
 
 * [The Net Ninja’s Regular Expressions Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 
-## javascript developer tools
+## [javascript developer tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 
 * [JavaScript 30 Video](https://www.youtube.com/watch?v=xkzDaKwinA8)
 
-## fundamentals part 3
+## [fundamentals part 3](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3)
 
 * [What’s the difference between using “let” and “var”? - stackoverflow](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var#:~:text=The%20main%20difference%20is%20scoping,(hence%20the%20block%20scope))
 
 * [How JavaScript Code is executed?](https://youtu.be/iLWTnMzWtj4)
 
-## problem solving
+## [problem solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
 
 * [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246/ref=sr_1_3?ie=UTF8&qid=1540326000&sr=8-3&keywords=think+like+a+programmer)
 
 * [video on repetitive programming techniques](https://ocw.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/resources/basic-programming-techniques/)
 
-## understanding errors
+## [understanding errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
 
 * [MDN Javascript Errors Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
 
-## rock paper scissors
+## [rock paper scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
-## clean code
+## [clean code](https://www.theodinproject.com/lessons/foundations-clean-code)
 
 * [A nice op-ed](https://www.martinfowler.com/bliki/CodeAsDocumentation.html)
 
@@ -230,11 +232,11 @@
 
 * [Chaining methods to write sentences](https://web.archive.org/web/20190211152543/https://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/)
 
-## installing node js
+## [installing node js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
 
-## fundamentals part 4
+## [fundamentals part 4](https://www.theodinproject.com/lessons/foundations-fundamentals-part-4)
 
-## dom manipulation and events
+## [dom manipulation and events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
 
 * [Eloquent JS - DOM](http://eloquentjavascript.net/13_dom.html)
 
@@ -250,7 +252,7 @@
 
 * [Understanding The Dom](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
 
-## revisiting rock paper scissors
+## [revisiting rock paper scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 
 * [interactive Visual Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
@@ -258,18 +260,19 @@
 
 * [interactive visualizer](https://learngitbranching.js.org/)
 
-## etch a sketch
+## [etch a sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 
-## fundamentals part 5
+## [fundamentals part 5](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5)
 
 * [page about function parameters](https://www.w3schools.com/js/js_function_parameters.asp)
 
-## calculator
+## [calculator](https://www.theodinproject.com/lessons/foundations-calculator)
 
-## introduction to the back end
+## [introduction to the back end](https://www.theodinproject.com/lessons/foundations-introduction-to-the-back-end)
 
-## introduction to frameworks
+## [introduction to frameworks](https://www.theodinproject.com/lessons/foundations-introduction-to-frameworks)
 
 * [StackOverflow: What is a Web Framework? How does it compare with LAMP?](http://stackoverflow.com/questions/4507506/what-is-a-web-framework-how-does-it-compare-with-lamp)
 
-## choose your path forward
+## [choose your path forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
+
